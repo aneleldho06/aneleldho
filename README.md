@@ -9,7 +9,8 @@
 ## 🚀 About Me  
 - Passionate about building and exploring decentralized tech  
 - Open to collaborations on Web3 & Dev projects  
-- Always learning, always shipping  
+- Always learning, always shipping 
+- How to reach me : iamaneleldho@gmail.com 
 
 ---
 
@@ -18,9 +19,6 @@
 <p align="left">
   <a href="https://www.instagram.com/a9.el__" target="_blank">
     <img src="https://raw.githubusercontent.com/hussainweb/hussainweb/main/icons/instagram.png" alt="Instagram" width="40" height="40"/>
-  </a>
-  <a href="mailto:iamaneleldho@gmail.com" target="_blank">
-    <img src="https://raw.githubusercontent.com/hussainweb/hussainweb/main/icons/email.png" alt="Email" width="40" height="40"/>
   </a>
   <a href="https://x.com/aneleldho_eth" target="_blank">
     <img src="https://raw.githubusercontent.com/hussainweb/hussainweb/main/icons/twitter.png" alt="Twitter" width="40" height="40"/>
